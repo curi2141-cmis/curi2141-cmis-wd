@@ -1,0 +1,16 @@
+~ home
+$ tell me what to do
+green text- who you are and where you are
+blue text-  folder
+white text- normal text 
+ls- view content of folder
+cd- change directory
+git add- add it to you repository folder in github
+git commit- commit all the changes
+git push- push all the changes 
+git status- view the status of the file
+R(tab)-  README.md file
+cu(tab)- curi2141-cmis-wd
+L(tab)- LICENCE
+ch(tab)- cheatscheet.txt
+cd .. - go back up to previous command
