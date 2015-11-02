@@ -1,0 +1,15 @@
+Start terminal by clicking on the icon which is located next to the folder which is located next to the menu at the bottom of the computer.
+Paste in the cloning URL which is in your repository folder in github on the bottom right into terminal by pressing shift, insert  and hit enter.
+Type 'cd' and the first two alphabets of your repository folder and hit the tab button and hit enter. (This will allow you to have your folder name without any spelling mistakes)
+Type 'gedit', space, the name of the new file you want to create, space and the and sign, '&' at the end.
+Hit enter.
+It would open a text file. In the text file, you can put in any information you want to insert.
+After you are done, click file, save and exit out of the text file.
+In order to add it to your repository folder, write a description and save it, first, you need to do 'git add'.
+Type 'git add' and the text file name and hit enter.
+Then, type 'git commit', -m "commit message". In the commit message part, write a brief description about the information or the change you have made to the file. You do not need to type the file name. 
+Hit enter.
+Now to save, you need to type 'git push' and the text file name and hit enter. It would first ask you for your username for you github account. Type in your username for the github account. Then press enter.
+After the username, it would ask you for your password. Even though you type, it wouldn't show because it is your password(do not freak out).
+Then press enter.
+You are done!
