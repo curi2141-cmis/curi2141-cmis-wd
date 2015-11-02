@@ -9,7 +9,7 @@ In order to add it to your repository folder, write a description and save it, f
 Type 'git add' and the text file name and hit enter.
 Then, type 'git commit', -m "commit message". In the commit message part, write a brief description about the information or the change you have made to the file. You do not need to type the file name. 
 Hit enter.
-Now to save, you need to type 'git push' and the text file name and hit enter. It would first ask you for your username for you github account. Type in your username for the github account. Then press enter.
+Now to save, you need to type 'git push' and hit enter. It would first ask you for your username for you github account. Type in your username for the github account. Then press enter.
 After the username, it would ask you for your password. Even though you type, it wouldn't show because it is your password(do not freak out).
 Then press enter.
 You are done!
