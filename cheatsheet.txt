@@ -14,3 +14,16 @@ cu(tab)- curi2141-cmis-wd
 L(tab)- LICENCE
 ch(tab)- cheatscheet.txt
 cd .. - go back up to previous command
+<> </> - one element
+<> - tag
+<^> - ^=tagname
+curi2141-cmis-wd sftp curi2141@cmis-hsteacher: open sftp
+ls - checking folders uploaded on the public html folder 
+!ls - checking folders in the respository
+ls * -  checking all folders in the repository
+put * - upload all folders in the repository
+rm * - remove all folder on the public html folder
+ls *^(*) - upload all folders with ^
+rm *^(*) - remove all folders with ^
+!ls *^(*) - upload all folders with ^
+!rm *^(*) - remove all folders with ^
