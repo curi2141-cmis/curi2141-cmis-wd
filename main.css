@@ -1,3 +1,18 @@
+/*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font of each element.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server.
+*/
 h1{
 	font-variant: small-caps;
 	font-size: 50px;
@@ -27,5 +42,7 @@ footer{
 	font-size:20px;
 	color:#9933FF;
 	background-color:#000000;
-	border:normal 5px;
+}
+body{
+	background-image: url(http://40.media.tumblr.com/438ae26024b6a60cca82c2fcfac5751c/tumblr_mmyibo9P7x1qbgm59o1_500.jpg)
 }
