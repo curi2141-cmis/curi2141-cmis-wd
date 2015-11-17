@@ -1,0 +1,23 @@
+h1{
+	color:yellow;
+	font-family:Impact, Charcoal, sans-serif;
+	font-style:italic;
+	background-color:purple;
+}
+h2{
+	color:blue;
+	font-family:Impact, Charcoal, sans-serif;
+	font-style:italic:
+	font-size:13px;
+	background-color:red;
+	border-bottom-style:dotted;
+	border-color:yellow;
+	border-width:15px 0px 10px;
+}
+h3{
+	color:purple;
+	font-size:13px;
+	border-color:purple;
+	border-top-style:dotted
+	
+}
