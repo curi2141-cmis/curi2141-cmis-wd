@@ -27,3 +27,10 @@ ls *^(*) - upload all folders with ^
 rm *^(*) - remove all folders with ^
 !ls *^(*) - upload all folders with ^
 !rm *^(*) - remove all folders with ^
+python -m SimpleHTTPServer - open server
+cmis-hsteacher/~user- view 
+localhost:8000 - view on production server
+localhost:8000/(file name)-view a certain file on server
+cmis-hsteacher/~user/(file name)-" public_html
+
+
