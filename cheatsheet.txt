@@ -34,3 +34,9 @@ localhost:8000/(file name)-view a certain file on server
 cmis-hsteacher/~user/(file name)-" public_html
 mkdir (folder name)- make the new folder
 rmdir (folder name)- remove the folder
+
+* cd public_html
+  (create a new file- mkdir filename)
+  (ls)
+  (direct to a new file)
+  put filename
