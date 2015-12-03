@@ -1,9 +1,38 @@
 h1{
 	font-family:Comic Sans, Comic Sans MS, cursive;
-	font-size:60px;
-	color:#00FF99;
-	border-style:ridge;
-	border-color:#000099;
+	font-size:45px;
+	color:#FFFF66;
+	border-style:double;
+	border-color:#FF9900;
 	border-width:20px;
+	background-color:#000000;
 }
+main > h2{
+			font-family:Courier New, monospace;
+			font-size:30px;
+			color:#33FFFF;
+			border-style:solid;
+			border-color:#3399FF;
+			border-width:10px;
+			background-color:#000000;
+}
+ol{
+	font-family:Andale Mono, monospace;
+	font-size:25px;
+	color:#CC6699;
+	border-style:dashed;
+	border-collapse:collapse;
+	border-color:#3399FF;
+	border-width:10px;
+	background-color:#000000;
+}
+h3{
+	font-family:Comic Sans, Comic Sans MS, cursive	;
+	font-size:30px;
+	color:#990099;
+	border-bottom-style:solid;
+	border-bottom-color:
+}
+			
+	
 	
