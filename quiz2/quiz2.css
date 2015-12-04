@@ -1,0 +1,11 @@
+header{
+	border-color:yellow;
+	border-width:10px;
+	background-color:red;
+}
+table{
+	border:1px solid black;
+}
+table, th, td{
+	border:1px solid black;
+}
