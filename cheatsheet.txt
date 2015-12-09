@@ -40,3 +40,21 @@ rmdir (folder name)- remove the folder
   (ls)
   (direct to a new file)
   put filename
+
+* html is the same
+* * selects everything and make a border to see the elements (turn off - //)
+* Navigation and main :
+	width (nav:width 200px; float: left;)
+	margin: outside the border, padding, inside the border
+	margine-left, 200px;
+	putting them side by side: float
+	element that floats comes on top
+	overlapping, 1+ the width set for the value
+* moving the image to one side
+	(classs- select by class name)
+	css- element.classname: select the images of the classes
+		float to right or to the left
+		footer:set clear property to float: clear:left or right or both
+		make article element, set the article, clear:both
+		br clear:both (line)
+		
