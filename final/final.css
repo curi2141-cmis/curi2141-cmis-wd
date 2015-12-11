@@ -1,0 +1,22 @@
+*{
+//	outline:solid 1px blue;
+}
+nav{
+	width:200px;
+	float:left;
+}
+main{
+	margin-left:201px;
+}
+article{
+	width:822px;
+	background-color:solid orange;
+}
+img{
+	width:400px;
+	height:400px;
+}
+footer{
+	 clear:both;
+}
+
